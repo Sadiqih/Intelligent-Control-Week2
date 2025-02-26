@@ -1,9 +1,0 @@
-Analisis:
-
-Pada percobaan kali ini, saya melakukan percobaan dengan pycharm untuk program pendeteksian warna menggunakan model knn dengan dataset yang saya dapatkan dari kaggle. Dari hasil percobaan menunjukkan bahwa hasil deteksi cukup akurat didukung dengan akurasi data latih sebesar 89.31%. Kemudian saat dataset saya tambah dengan dua warna, hasil akurasi naik menjadi 90. %, hal ini menunjukkan semakin banyak data semakin tinggi akurasi data latihnya. Untuk meningkatkan kinerja model akurasinya dapat dibantu dari loader model yang berpusat pada datasatnya, semakin akurat dataset maka semakin baik juga kinerja dari model yang digunakan.
-
-Diskusi:
-1.	Keuntungan dari Machine Learning dibandingkan Rule-Based adalah ML dapat beradaptasi dari data yang yang dilatih, kemudain ML juga mampu memberikan data yang lebih akurat karena dapat berkerja berdasarkan data latih bukan berdasarkan rentang yang ditentukan, selanjutnya ML memilki data yang cukup akurat berbeda dengan RB yang berdasarkan program manual di mana dapat memungkinkan terjadinya kesalahan.
-2.	ML dapat diintegrasikan lebih lanjut pada sistem kendali yaitu dengan meningkatkan akurasi dan kemampuan adaptive dari datasetnya agar dapat lebih optimal.
-3.	Tantangan dalam menerapkan ML pada sistem Real-Time adalah mencari dataset yang akurat dan efisien, kemudian keandalan dari device yang digunakan, selanjutnya coding program agar dapat mengolah dataset lebih optimal sehingga tidak terjadi kesalahan pembacaan yang dapat menyebabkan kegagalan pada saat mendeteksi objek.
-
